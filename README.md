@@ -97,6 +97,9 @@ Once the file is loaded, the target column must be selected so the model can pre
 
 ![image](https://user-images.githubusercontent.com/98497219/169663072-11f90641-8d94-4c14-9180-62f440f95d3c.png)
 
+Notes:
+- Permissions for full access SageMaker was used; and a custom policy was added as in the link that comes next
+- https://docs.aws.amazon.com/sagemaker/latest/dg/gs-set-up.html
 
 ## Amazon SageMaker Studio Lab
 Homepage - https://studiolab.sagemaker.aws
