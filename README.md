@@ -26,9 +26,9 @@ Some categories are:
 - Summarize for a 2nd grader
 - Text to command ...
 
-Three categories were selected to describe the GPT3 tool capabilities: a translation from table and column names plus some text to a select statement, a simplification of complex code, and explanation of python code.  
+Three categories were selected to describe the GPT3 tool capabilities: a translation from table and column names plus some text to a select statement, a simplification of complex text, and explanation of python code.  
 
-By looking at the three examples i), ii) and iii) below, it can be seen that some training is needed or more experiments should run, for example, in the case of the select statement the created query does not include a group or a count to be a closer correct statement.  The results were obtained by using the engine (or model) named "text-curie-001" so it might be worth trying a different one.
+By looking at the three examples i), ii) and iii) below, it can be seen that some training is needed or more experiments should run, for example, in the case of the select statement the created query does not include a group or a count to be closer to the correct statement.  Regarding the text in the quantum field, the simplification is identical to part of the original text but might be the text can not be translated unless important meaning is lost. The results were obtained by using the engine (or model) named "text-curie-001" so it might be worth trying a different one.
 
 Examples
 ### i) Create an SQL statement based on text
