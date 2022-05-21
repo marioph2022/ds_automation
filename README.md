@@ -1,6 +1,6 @@
 # Data Science Automation Tools
 
-The idea of this repository is to create a list of data science tools that can help during development of AI or ML projects and contain automation features. There are examples of the usage for a few of the tools but this can be use as a starting point to try to include third-party automation tools.  It is expected that the number as well as the precision of them will increase to make them more powerful and to apply them in even more scenarios.
+The idea of this repository is to create a list of data science tools that can help during development of AI or ML projects and contain automation features. There are examples of the usage for a few of the tools listed but this can be use as a starting point to try to include third-party products for automated projects.  It is expected that the number as well as the precision of them will increase to make them more powerful and to apply them in even more scenarios; however, the suggestion is to use a combination of both automation features and custom development where possible.
 
 ### List of tools
 
