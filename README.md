@@ -69,6 +69,11 @@ Result:
 
 The code prints the value of 2 multiplied by the value of the variable idx.
 
+One more example with a slightly more complex code but adding a screenshot to show how the environment of the tools looks like.  There is an area where the text can be added (in this case Python code), text which is like a command and a submit button to execute the experiment.
+
+![image](https://user-images.githubusercontent.com/98497219/169658105-65e94ddc-69c6-4e7a-8714-f9b24a26931e.png)
+
+
 ## Amazon SageMaker Studio
 Homepage - https://aws.amazon.com/sagemaker/data-scientist/
 
