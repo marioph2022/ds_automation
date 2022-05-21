@@ -5,8 +5,8 @@ The idea of this repository is to create a list of data science tools that can h
 ### List of tools
 
 1. GPT3
-2. AWS SageMaker Studio Lab
-3. AWS SageMaker Studio
+2. AWS SageMaker Studio
+3. AWS SageMaker Studio Lab
 4. AWS Autopilot
 5. DataRobot
 6. GitHub Copilot
@@ -69,10 +69,21 @@ Result:
 
 The code prints the value of 2 multiplied by the value of the variable idx.
 
+## Amazon SageMaker Studio
+Homepage - https://aws.amazon.com/sagemaker/data-scientist/
+
+Amazon SageMaker is a service with various components and the page added as a reference is one that can help in the data scientist role. This section is announced as Amazon SageMaker for Data Scientists with Integrated development environment (IDE) for the ML lifecycle.
 
 
+## Amazon SageMaker Studio Lab
+Homepage - https://studiolab.sagemaker.aws
 
+There is faq section in their homepage that describes this tool as a free online web application for learning and experimenting with data science and machine learning using Jupyter notebooks.  This is based on the same technology as SageMaker Studio, but with limited computed, storage and a subset of the capabilities from the original one.
 
+At the time of this writting the sign up process is in waitlist though the approval should be in at most five business days.
+
+## AWS Autopilot
+Homepage - https://aws.amazon.com/sagemaker/data-scientist/
 
 ## DataRobot
 Homepage - https://www.datarobot.com/
