@@ -79,6 +79,24 @@ Homepage - https://aws.amazon.com/sagemaker/data-scientist/
 
 Amazon SageMaker is a service with various components and the page added as a reference is one that can help in the data scientist role. This section is announced as Amazon SageMaker for Data Scientists with Integrated development environment (IDE) for the ML lifecycle.
 
+Part of SageMaker is the Amazon SageMaker Studio that is an IDE where Jupyter Notebooks can be created but the studio has some other features which some are listed as follows:
+
+- GitHub integration
+- Terminals
+- Settings
+- Experiment
+
+The automation part that should be mentioned here is known as Autopilot which can be started from file --> new --> experiment.  An experiment is a way of creating a machine learning model automatically and in this case the types of problems that are solved by this technique are: binary and multiclass classification, and linear regression las of 05/2022.  
+
+By creating an experiment, it should be noted that there almost no requirement to execute the experiment since basically what is required is
+
+- Input text file (path and file in S3, S3 is a AWS storage service)
+- Output path (bucket and path in S3)
+
+Once the file is loaded, the target column must be selected so the model can predict and determine the type of problem to solve. It is good to mention that the output location in S3 is needed because during the model creating multiple models are created to select the best one and this allows a user to work on the notebooks that were created automatically and store in S3.
+
+![image](https://user-images.githubusercontent.com/98497219/169663072-11f90641-8d94-4c14-9180-62f440f95d3c.png)
+
 
 ## Amazon SageMaker Studio Lab
 Homepage - https://studiolab.sagemaker.aws
