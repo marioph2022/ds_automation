@@ -1,6 +1,6 @@
 # Data Science Automation Tools
 
-The idea of this repository is to create a list of data science tools that can help during development of AI or ML projects and contain automation features. At the time of writing the sign up process is in progress and sample usage is pending.
+The idea of this repository is to create a list of data science tools that can help during development of AI or ML projects and contain automation features. There are examples of the usage for a few of the tools but this can be use as a starting point to try to include third-party automation tools.  It is expected that the number as well as the precision of them will increase to make them more powerful and to apply them in even more scenarios.
 
 ### List of tools
 
@@ -17,7 +17,7 @@ Homepage - https://beta.openai.com/
 
 GPT3 is Generative Pre-trained Transformer 3 performs a wide variety of natural language tasks.
 
-This is a tool that can be used to create an appliction by adding features developed by this project.  This works with text in many different scenarios and it comprises 49 different categories at the time of this writing and a few examples were executed to see the result.
+This is a tool that can be used to create an application by adding features developed by this project.  This works with text in many different scenarios and it comprises 49 different categories at the time of this writing and a few examples were executed to see the result.
 
 Some categories are:
 
@@ -26,7 +26,7 @@ Some categories are:
 - Summarize for a 2nd grader
 - Text to command ...
 
-Three categories were selected to describe the tool capabilities: a translation from table and column names plus some text to a select statement, a simplification of complex code, and explanation of python code.  
+Three categories were selected to describe the GPT3 tool capabilities: a translation from table and column names plus some text to a select statement, a simplification of complex code, and explanation of python code.  
 
 By looking at the three examples i), ii) and iii) below, it can be seen that some training is needed or more experiments should run, for example, in the case of the select statement the created query does not include a group or a count to be a closer correct statement.  The results were obtained by using the engine (or model) named "text-curie-001" so it might be worth trying a different one.
 
